@@ -1,0 +1,3 @@
+/d/Users/DELL/Downloads/bash_workdir
+I love HPC!
+output_bash.txt
